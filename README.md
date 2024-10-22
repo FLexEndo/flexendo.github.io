@@ -1,4 +1,4 @@
-# Re-Nerfing
+# FLex
 
 This is the repository that contains source code for the [FLex website](https://flexendo.github.io).
 
